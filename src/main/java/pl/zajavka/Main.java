@@ -5,6 +5,7 @@ public class Main {
         System.out.println("Warsztat 12_1 ");
         System.out.println("Test commit 2 ");
         System.out.println("Test commit 3 ");
+        System.out.println("Test commit 4 ");
 
     }
 }
